@@ -27,7 +27,6 @@
     "node": ">=18.10",
     "pnpm": ">=9.6"
   },
-  "packageManager": "pnpm@9.6.0",
   "scripts": {
     "test": "mocha test",
     "pretest": "eslint ."
